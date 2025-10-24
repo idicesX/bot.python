@@ -17,7 +17,7 @@ BUTTONS = [
         InlineKeyboardButton("Must", url="https://t.me/+Ogyz4Nzq4t9mMTk1"),
     ],
     [
-        InlineKeyboardButton("🟢 Joined", callback_data="/joined")
+        InlineKeyboardButton("🟢 Joined", callback_data="joined")  # <-- removed the leading slash
     ]
 ]
 
