@@ -1,0 +1,2 @@
+# bot.python
+Pom bot
